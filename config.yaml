@@ -1,0 +1,140 @@
+baseURL: https://aafu.pages.dev/
+languageCode: en-us
+build:
+  writeStats: true
+params:
+  title: aafu theme
+  author: Darshan Baral
+  description: Website title
+  copyright: >-
+    powered by [hugo](https://gohugo.io/) & deployed on
+    [Cloudflare](https://www.cloudflare.com/)
+  theme:
+    mainTheme: dark
+    showAttribute: true
+    singlePage: false
+  favicons:
+    use: true
+    metas: |2-
+              <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+              <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+              <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+              <link rel="manifest" href="site.webmanifest">
+              <link rel="mask-icon" href="safari-pinned-tab.svg" color="#252627">
+              <link rel="shortcut icon" href="favicon.ico">
+
+  profile:
+    name: "Apetrei Florin Sebastian"
+    location: "Metjendorf, Germany"
+    photo: Profile.jpg
+  social:
+    title: Links
+    list:
+      - icon: fab fa-github
+        url: "https://github.com/Florin12er"
+        title: GitHub
+      - icon: fab fa-twitter
+        url: "https://twitter.com/florin12er"
+        title: Twitter
+  showInAccordion:
+    - item: aboutme
+      expand: true
+    - item: experience
+    - item: education
+    - item: publication
+    - item: project
+    - item: skill
+    - item: hobby
+  aboutme:
+    title: About Me
+    icon: fas fa-user
+    description: My name is Sebastian I am from Romania, I am a 17 years old student at BBS haarentor.
+  experience:
+    title: Experiences
+    icon: fas fa-briefcase
+    list:
+      - position: Job Title
+        dates: 2024 - *Present*
+        company: A & G Computer GmbH
+        details: |1-
+          - There I repaired computers.
+          - Test computers.
+          - Build new computers.
+          - and also repaired and test Laptops.
+  education:
+    title: Education
+    icon: fas fa-graduation-cap
+    list:
+      - degree: High scool degree
+        college: Oberschule Wiefelstede
+        dates: 2019 - 2023
+  publication:
+    title: Publications
+    icon: fas fa-book
+    format:
+      - date
+      - title
+      - authors
+      - journal
+    types:
+      - Journal Articles
+      - Proceedings
+    list:
+      - title: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        authors: "F Last, F Second, P secondary"
+        date: "2018"
+        journal: "Journal of Field 52 (16), 9033-9044"
+        url: "#"
+        type: Journal Articles
+      - title: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        authors: "F Last, F Second, P secondary"
+        date: "2018"
+        journal: "Journal of Field 52 (16), 9033-9044"
+        url: "#"
+        type: Journal Articles
+      - title: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        authors: "F Last, F Second, P secondary"
+        date: "2018"
+        journal: "Journal of Field 52 (16), 9033-9044"
+        url: "#"
+        type: Proceedings
+  project:
+    title: Projects
+    icon: fas fa-project-diagram
+    list:
+      - title: Project 1
+        url: "#"
+        description: Description of the project
+      - title: Project 2
+        url: "#"
+        description: Description of the project
+      - title: Project 3
+        url: "#"
+        description: Description of the project
+      - title: Project 4
+        url: "#"
+        description: Description of the project
+  skill:
+    title: Skills
+    panelId: skill-panel
+    icon: fas fa-cogs
+    list:
+      - skill: "Web development"
+        skillrating: 90
+      - skill: "Programming"
+        skillrating: 80
+      - skill: "CLI proficiency"
+        skillrating: 50
+  hobby:
+    title: Hobbies
+    icon: fas fa-gamepad
+    list:
+      - hobby: Web development and programming
+      - hobby: Bodybuilding
+      - hobby: Bike riding
