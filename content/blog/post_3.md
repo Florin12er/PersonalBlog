@@ -10,7 +10,7 @@ categories:
 date: "2024-03-15"
 description: this is a blog post about my opinion on artificial intelligence
 draft: false
-title: Why ai is may better than humans but not perfect.
+title: Why ai may be better than humans but not perfect.
 ---
 
 ## Introduction
