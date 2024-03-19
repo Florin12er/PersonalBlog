@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artificial Intelligence on </title>
-    <link>https://aafu.pages.dev/tags/artificial-intelligence/</link>
+    <link>http://localhost:1313/tags/artificial-intelligence/</link>
     <description>Recent content in Artificial Intelligence on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://aafu.pages.dev/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why ai is may better than humans but not perfect.</title>
-      <link>https://aafu.pages.dev/blog/post_3/</link>
+      <title>Why ai may be better than humans but not perfect.</title>
+      <link>http://localhost:1313/blog/post_3/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://aafu.pages.dev/blog/post_3/</guid>
+      <guid>http://localhost:1313/blog/post_3/</guid>
       <description>Introduction Artificial Intelligence (AI) has undoubtedly captivated the world with its potential and promises. This advanced technology has gained significant attention in recent years, transforming various industries and shaping our future. In this blog, we will explore the true nature of AI, debunk misconceptions, and delve into its benefits, limitations, and ethical considerations.&#xA;Addressing misconceptions Before diving into the details, it&amp;rsquo;s important to address some common misconceptions surrounding AI. Contrary to popular belief, AI is not about building super-intelligent robots aiming to replace humans.</description>
     </item>
   </channel>

@@ -1,4 +1,4 @@
-baseURL: https://aafu.pages.dev/
+baseURL: https://mypersonalblogflorinsebastian.netlify.app/
 languageCode: en-us
 build:
   writeStats: true
@@ -137,4 +137,4 @@ params:
     list:
       - hobby: Web development and programming
       - hobby: Bodybuilding
-      - hobby: Bike riding
+      - hobby: Ride bike
